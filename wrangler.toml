@@ -1,8 +1,8 @@
-name = "edgetunnel"
+name = "edgetunnel-test"
 main = "_worker.js"
 compatibility_date = "2025-11-04"
 keep_vars = true
 
-[[kv_namespaces]]
-binding = "KV"
-id = "eaf04fdadbc04c6d9e37918ec9c7ab31"
+# [[kv_namespaces]]
+# binding = "KV"
+# id = "eaf04fdadbc04c6d9e37918ec9c7ab31"
