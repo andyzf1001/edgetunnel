@@ -6,3 +6,5 @@ keep_vars = true
 [[kv_namespaces]]
 binding = "KV"
 id = "eaf04fdadbc04c6d9e37918ec9c7ab31"
+
+
