@@ -8,3 +8,4 @@ keep_vars = true
 # id = "eaf04fdadbc04c6d9e37918ec9c7ab31"
 
 # trigger rebuild for neutral name isolation test
+# trigger bisect-pure 2026-11-01
