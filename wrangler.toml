@@ -5,3 +5,4 @@ compatibility_date = "2024-04-15"
 # [[kv_namespaces]]
 # binding = "KV"
 # id = "eaf04fdadbc04c6d9e37918ec9c7ab31"
+# trigger rebuild for zizifn-test control test
